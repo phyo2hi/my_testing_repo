@@ -8,4 +8,4 @@ while (i <= numberOfMultiply){
     
     
 }
-
+console.log("done")
